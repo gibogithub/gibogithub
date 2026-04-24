@@ -1,6 +1,6 @@
 ## Hi there 👋
-🌱 I’m currently learning ...
-https://roadmap.sh/card/tall/69e6cbd935198b31d697b8dd?variant=light&roadmaps=full-stack%2Cai-engineer%2Cbackend%2Ccomputer-science
+🌱 I’m currently learning ... AI and ML
+
 <!--
 **gibogithub/gibogithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
