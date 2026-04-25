@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning ... AI and ML
+🌱 I’m currently learning ... AI Engineering, Prompt Engineering, Backend, Fullstack, javascript and Machine Learning
 
 <!--
 **gibogithub/gibogithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
